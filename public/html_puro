@@ -1,0 +1,264 @@
+    <h1>Desafio Gol a Gol Poker - Classificação e Confrontos</h1>
+
+    <h2>Grupo A</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight"><td>Danilo Souza</td><td>10</td><td>4</td><td>3</td><td>1</td><td>0</td><td>8</td><td>3</td><td>5</td><td>0</td><td>0</td></tr>
+            <tr><td>Michael dos Santos Luciano</td><td>7</td><td>4</td><td>2</td><td>1</td><td>1</td><td>5</td><td>4</td><td>1</td><td>0</td><td>0</td></tr>
+            <tr><td>Paulo Henrique Bezerra</td><td>6</td><td>4</td><td>2</td><td>0</td><td>2</td><td>9</td><td>6</td><td>3</td><td>0</td><td>0</td></tr>
+            <tr class="highlight"><td>Mikael Silva</td><td>6</td><td>4</td><td>2</td><td>0</td><td>2</td><td>6</td><td>3</td><td>3</td><td>0</td><td>0</td></tr>
+            <tr><td>Guilherme Mota</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>12</td><td>-12</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+    <h3>Confrontos</h3>
+    <p>1. Paulo Henrique Bezerra 3 vs. 0 Guilherme Mota (WO)</p>
+    <p>2. Michael dos Santos Luciano 1 vs. 0 Mikael Silva</p>
+    <p>3. Danilo Souza 3 vs. 2 Paulo Henrique Bezerra</p>
+    <p>4. Guilherme Mota (WO) 0 vs. 3 Michael dos Santos Luciano</p>
+    <p>5. Mikael Silva 0 vs. 1 Danilo Souza</p>
+    <p>6. Paulo Henrique Bezerra 3 vs. 0 Michael dos Santos Luciano</p>
+    <p>7. Guilherme Mota (WO) 0 vs. 3 Mikael Silva</p>
+    <p>8. Danilo Souza 1 vs. 1 Michael dos Santos Luciano</p>
+    <p>9. Mikael Silva 3 vs. 1 Paulo Henrique Bezerra</p>
+    <p>10. Guilherme Mota (WO) 0 vs. 3 Danilo Souza</p>
+
+    <h2>Grupo B</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight"><td>Francisco Claudio Nunes Vieira</td><td>12</td><td>4</td><td>4</td><td>0</td><td>0</td><td>7</td><td>1</td><td>6</td><td>0</td><td>0</td></tr>
+            <tr class="highlight"><td>João Junior</td><td>7</td><td>4</td><td>2</td><td>1</td><td>1</td><td>4</td><td>1</td><td>3</td><td>0</td><td>0</td></tr>
+            <tr><td>Lucas Costa</td><td>4</td><td>4</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>-1</td><td>0</td><td>0</td></tr>
+            <tr><td>Lucas Abreu Camara</td><td>2</td><td>4</td><td>0</td><td>2</td><td>2</td><td>1</td><td>3</td><td>-2</td><td>0</td><td>0</td></tr>
+            <tr><td>Walacy Silva</td><td>2</td><td>4</td><td>0</td><td>2</td><td>2</td><td>1</td><td>7</td><td>-6</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+    <h3>Confrontos</h3>
+    <p>1. Francisco Claudio Nunes Vieira 3 vs. 0 Walacy Silva</p>
+    <p>2. Lucas Costa 0 vs. 1 João Junior</p>
+    <p>3. Lucas Abreu Camara 0 vs. 1 Francisco Claudio Nunes Vieira</p>
+    <p>4. Walacy Silva 0 vs. 0 Lucas Costa</p>
+    <p>5. João Junior 0 vs. 0 Lucas Abreu Camara</p>
+    <p>6. Francisco Claudio Nunes Vieira 2 vs. 1 Lucas Costa</p>
+    <p>7. Walacy Silva 0 vs. 3 João Junior</p>
+    <p>8. Lucas Abreu Camara 0 vs. 1 Lucas Costa</p>
+    <p>9. João Junior 0 vs. 1 Francisco Claudio Nunes Vieira</p>
+    <p>10. Walacy Silva 1 vs. 1 Lucas Abreu Camara</p>
+
+    <h2>Grupo C</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight"><td>Ricardo Cezar Souto Cirino Junior</td><td>12</td><td>4</td><td>4</td><td>0</td><td>0</td><td>9</td><td>1</td><td>8</td><td>0</td><td>0</td></tr>
+            <tr class="highlight"><td>Jhonatan Rodrigues Da Silva</td><td>9</td><td>4</td><td>3</td><td>0</td><td>1</td><td>9</td><td>4</td><td>5</td><td>0</td><td>0</td></tr>
+            <tr><td>Emanoel Pontes</td><td>6</td><td>4</td><td>2</td><td>0</td><td>2</td><td>5</td><td>3</td><td>2</td><td>0</td><td>0</td></tr>
+            <tr><td>Victor Ferreira</td><td>3</td><td>4</td><td>1</td><td>0</td><td>3</td><td>6</td><td>11</td><td>-5</td><td>0</td><td>0</td></tr>
+            <tr><td>Cristhian Cabral Damasceno</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>5</td><td>15</td><td>-10</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+    <h3>Confrontos</h3>
+    <p>1. Cristhian Cabral Damasceno 0 vs. 4 Jhonatan Rodrigues Da Silva</p>
+    <p>2. Emanoel Pontes 2 vs. 0 Victor Ferreira</p>
+    <p>3. Ricardo Cezar Souto Cirino Junior 4 vs. 1 Cristhian Cabral Damasceno</p>
+    <p>4. Jhonatan Rodrigues Da Silva 1 vs. 0 Emanoel Pontes</p>
+    <p>5. Victor Ferreira 0 vs. 2 Ricardo Cezar Souto Cirino Junior</p>
+    <p>6. Cristhian Cabral Damasceno 1 vs. 3 Emanoel Pontes</p>
+    <p>7. Jhonatan Rodrigues Da Silva 4 vs. 2 Victor Ferreira</p>
+    <p>8. Ricardo Cezar Souto Cirino Junior 1 vs. 0 Emanoel Pontes</p>
+    <p>9. Victor Ferreira 4 vs. 3 Cristhian Cabral Damasceno</p>
+    <p>10. Jhonatan Rodrigues Da Silva 0 vs. 2 Ricardo Cezar Souto Cirino Junior</p>
+
+    <h2>Grupo D</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight"><td>André Felipe</td><td>10</td><td>4</td><td>3</td><td>1</td><td>0</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td></tr>
+            <tr><td>Elismarlon Jairo Silva</td><td>7</td><td>4</td><td>2</td><td>1</td><td>1</td><td>5</td><td>2</td><td>3</td><td>0</td><td>0</td></tr>
+            <tr class="highlight"><td>Henrique Reis</td><td>6</td><td>4</td><td>2</td><td>0</td><td>2</td><td>2</td><td>4</td><td>-2</td><td>0</td><td>0</td></tr>
+            <tr><td>Francisco William</td><td>4</td><td>4</td><td>1</td><td>1</td><td>2</td><td>2</td><td>4</td><td>-2</td><td>0</td><td>0</td></tr>
+            <tr><td>Ruan Kilber</td><td>1</td><td>4</td><td>0</td><td>1</td><td>3</td><td>0</td><td>3</td><td>-3</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+    <h3>Confrontos</h3>
+    <p>1. Henrique Reis 1 vs. 0 Ruan Kilber</p>
+    <p>2. Elismarlon Jairo Silva 2 vs. 0 Francisco William</p>
+    <p>3. André Felipe 2 vs. 0 Henrique Reis</p>
+    <p>4. Ruan Kilber 0 vs. 0 Elismarlon Jairo Silva</p>
+    <p>5. Francisco William 1 vs. 1 André Felipe</p>
+    <p>6. Henrique Reis 0 vs. 2 Elismarlon Jairo Silva</p>
+    <p>7. Ruan Kilber 0 vs. 1 Francisco William</p>
+    <p>8. André Felipe 2 vs. 1 Elismarlon Jairo Silva</p>
+    <p>9. Francisco William 0 vs. 1 Henrique Reis</p>
+    <p>10. Ruan Kilber 0 vs. 1 André Felipe</p>
+
+    <h2>Grupo E</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="highlight"><td>Davi Oliveira</td><td>10</td><td>4</td><td>3</td><td>1</td><td>0</td><td>5</td><td>1</td><td>4</td><td>0</td><td>0</td></tr>
+            <tr><td>Francisco Teixeira Justino</td><td>7</td><td>4</td><td>2</td><td>1</td><td>1</td><td>3</td><td>1</td><td>2</td><td>0</td><td>0</td></tr>
+            <tr class="highlight"><td>Alex Almeida Lima</td><td>6</td><td>4</td><td>2</td><td>0</td><td>2</td><td>6</td><td>3</td><td>3</td><td>0</td><td>0</td></tr>
+            <tr><td>Ivanilson Leal Rodrigues</td><td>3</td><td>4</td><td>1</td><td>0</td><td>3</td><td>1</td><td>4</td><td>-3</td><td>0</td><td>0</td></tr>
+            <tr><td>Leandro Siqueira Trajano</td><td>3</td><td>4</td><td>1</td><td>0</td><td>3</td><td>1</td><td>7</td><td>-6</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+    <h3>Confrontos</h3>
+    <p>1. Davi Oliveira 1 vs. 0 Leandro Siqueira Trajano</p>
+    <p>2. Francisco Teixeira Justino 0 vs. 1 Alex Almeida Lima</p>
+    <p>3. Ivanilson Leal Rodrigues 0 vs. 2 Davi Oliveira</p>
+    <p>4. Leandro Siqueira Trajano 0 vs. 2 Francisco Teixeira Justino</p>
+    <p>5. Alex Almeida Lima 0 vs. 1 Ivanilson Leal Rodrigues</p>
+    <p>6. Davi Oliveira 0 vs. 0 Francisco Teixeira Justino</p>
+    <p>7. Leandro Siqueira Trajano 1 vs. 0 Ivanilson Leal Rodrigues</p>
+    <p>8. Davi Oliveira 2 vs. 1 Alex Almeida Lima</p>
+    <p>9. Ivanilson Leal Rodrigues 0 vs. 1 Francisco Teixeira Justino</p>
+    <p>10. Leandro Siqueira Trajano 0 vs. 4 Alex Almeida Lima</p>
+
+    <h2>Confrontos das Oitavas de Final</h2>
+    <p>1. Ricardo Cezar Souto Cirino Junior vs. Mikael Silva - 2 (0) – (1) 2</p>
+    <p>2. Andre Felipe vs. Alex Almeida Lima - 3-1</p>
+    <p>3. Danilo Souza vs. Henrique Reis - 0-1</p>
+    <p>4. João Junior vs. Michael dos Santos Luciano - 3-0</p>
+    <p>5. Francisco Claudio Nunes Vieira vs. Lucas Costa - 2-0</p>
+    <p>6. Jhonatan Rodrigues da Silva vs. Paulo Henrique Bezerra - 2-1</p>
+    <p>7. Davi Oliveira vs. Emanuel Pontes - 1-0</p>
+    <p>8. Elismarlon Jairo Silva vs. Francisco Teixeira Justino - 2-0</p>
+
+    <h2>Confrontos das Quartas de Final</h2>
+    <p>9. Mikael Silva vs. Andre Felipe - 1-0</p>
+    <p>10. Henrique Reis vs. João Junior - 0-2</p>
+    <p>11. Francisco Claudio Nunes Vieira vs. Jhonatan Rodrigues da Silva - 1-4</p>
+    <p>12. Davi Oliveira vs. Elismarlon Jairo Silva - 1-0</p>
+
+    <h2>Confrontos da Semifinal</h2>
+    <p>13. Mikael Silva vs. João Junior - 1-0</p>
+    <p>14. Jhonatan Rodrigues da Silva vs. Davi Oliveira - 4-0</p>
+
+    <h2>Confronto da Disputa do 3º Lugar</h2>
+    <p>15. João Junior vs. Davi Oliveira - 1-0</p>
+
+    <h2>Final</h2>
+    <p>16. Mikael Silva vs. Jhonatan Rodrigues da Silva - 1-0</p>
+
+    <h2>Campeão</h2>
+    <h3>Mikael Silva</h3>
+
+    <h2>Tabela de Classificação Geral com Pontos Extras para a Final</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Posição</th>
+                <th>Jogador</th>
+                <th>Pts</th>
+                <th>J</th>
+                <th>V</th>
+                <th>E</th>
+                <th>D</th>
+                <th>GP</th>
+                <th>GC</th>
+                <th>SG</th>
+                <th>CA</th>
+                <th>CV</th>
+            </tr>
+        </thead>
+        <tbody>
+            Jhonatan Rodrigues Da Silva</td><td>41</td><td>4</td><td>3</td><td>0</td><td>1</td><td>9</td><td>4</td><td>5</td><td>0</td><td>0</td></tr>
+            Mikael Silva</td><td>41</td><td>4</td><td>2</td><td>0</td><td>2</td><td>6</td><td>3</td><td>3</td><td>0</td><td>0</td></tr>
+            João Junior</td><td>37</td><td>4</td><td>2</td><td>1</td><td>1</td><td>4</td><td>1</td><td>3</td><td>0</td><td>0</td></tr>
+            Davi Oliveira</td><td>30</td><td>4</td><td>3</td><td>1</td><td>0</td><td>5</td><td>1</td><td>4</td><td>0</td><td>0</td></tr>
+            Francisco Claudio Nunes Vieira</td><td>24</td><td>4</td><td>4</td><td>0</td><td>0</td><td>7</td><td>1</td><td>6</td><td>0</td><td>0</td></tr>
+            Elismarlon Jairo Silva</td><td>19</td><td>4</td><td>2</td><td>1</td><td>1</td><td>5</td><td>2</td><td>3</td><td>0</td><td>0</td></tr>
+            Ricardo Cezar Souto Cirino Junior</td><td>18</td><td>4</td><td>4</td><td>0</td><td>0</td><td>9</td><td>1</td><td>8</td><td>0</td><td>0</td></tr>
+            Henrique Reis</td><td>18</td><td>4</td><td>2</td><td>0</td><td>2</td><td>2</td><td>4</td><td>-2</td><td>0</td><td>0</td></tr>
+            Danilo Souza</td><td>16</td><td>4</td><td>3</td><td>1</td><td>0</td><td>8</td><td>3</td><td>5</td><td>0</td><td>0</td></tr>
+            André Felipe</td><td>16</td><td>4</td><td>3</td><td>1</td><td>0</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td></tr>
+            Francisco Teixeira Justino</td><td>13</td><td>4</td><td>2</td><td>1</td><td>1</td><td>3</td><td>1</td><td>2</td><td>0</td><td>0</td></tr>
+            Michael dos Santos Luciano</td><td>13</td><td>4</td><td>2</td><td>1</td><td>1</td><td>5</td><td>4</td><td>1</td><td>0</td><td>0</td></tr>
+            Alex Almeida Lima</td><td>12</td><td>4</td><td>2</td><td>0</td><td>2</td><td>6</td><td>3</td><td>3</td><td>0</td><td>0</td></tr>
+            Paulo Henrique Bezerra</td><td>12</td><td>4</td><td>2</td><td>0</td><td>2</td><td>9</td><td>6</td><td>3</td><td>0</td><td>0</td></tr>
+            Emanoel Pontes</td><td>12</td><td>4</td><td>2</td><td>0</td><td>2</td><td>5</td><td>3</td><td>2</td><td>0</td><td>0</td></tr>
+            Lucas Costa</td><td>10</td><td>4</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>-1</td><td>0</td><td>0</td></tr>
+            Francisco William</td><td>6</td><td>4</td><td>1</td><td>1</td><td>2</td><td>2</td><td>4</td><td>-2</td><td>0</td><td>0</td></tr>
+            Ivanilson Leal Rodrigues</td><td>5</td><td>4</td><td>1</td><td>0</td><td>3</td><td>1</td><td>4</td><td>-3</td><td>0</td><td>0</td></tr>
+            Victor Ferreira</td><td>5</td><td>4</td><td>1</td><td>0</td><td>3</td><td>6</td><td>11</td><td>-5</td><td>0</td><td>0</td></tr>
+            Leandro Siqueira Trajano</td><td>5</td><td>4</td><td>1</td><td>0</td><td>3</td><td>1</td><td>7</td><td>-6</td><td>0</td><td>0</td></tr>
+            Lucas Abreu Camara</td><td>4</td><td>4</td><td>0</td><td>2</td><td>2</td><td>1</td><td>3</td><td>-2</td><td>0</td><td>0</td></tr>
+            Walacy Silva</td><td>4</td><td>4</td><td>0</td><td>2</td><td>2</td><td>1</td><td>7</td><td>-6</td><td>0</td><td>0</td></tr>
+            Ruan Kilber</td><td>3</td><td>4</td><td>0</td><td>1</td><td>3</td><td>0</td><td>3</td><td>-3</td><td>0</td><td>0</td></tr>
+            Cristhian Cabral Damasceno</td><td>2</td><td>4</td><td>0</td><td>0</td><td>4</td><td>5</td><td>15</td><td>-10</td><td>0</td><td>0</td></tr>
+            Guilherme Mota</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>12</td><td>-12</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
