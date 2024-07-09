@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('subscription_images', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('plan_id')
+            $table->unsignedBigInteger('subscription_id')
                 ->nullable(false);
             $table->string('name')
                 ->nullable(true);
@@ -22,9 +22,9 @@ return new class extends Migration
             $table->timestamps();
             $table->softDeletes();
 
-            $table->foreign('plan_id')
+            $table->foreign('subscription_id')
                 ->references('id')
-                ->on('plans');
+                ->on('subscriptions');
         });
     }
 
